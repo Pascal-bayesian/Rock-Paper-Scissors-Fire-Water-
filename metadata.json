@@ -1,0 +1,5 @@
+{
+  "name": "Game Theory Sandbox: RPS",
+  "description": "An interactive pedagogical tool to explore mixed strategies, expected values, and Nash equilibria in Rock-Paper-Scissors.",
+  "requestFramePermissions": []
+}
